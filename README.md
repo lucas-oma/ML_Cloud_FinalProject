@@ -1,6 +1,6 @@
 # LLM Inference Server Benchmarks
 
-> This entire directory is also available in our github repository to make it easier to read the MarkDown files! Find it here: 
+> This entire directory is also available in our github repository to make it easier to read the MarkDown files! Find it here: https://github.com/lucas-oma/ML_Cloud_FinalProject
 
 This directory contains setup scripts, configuration files, and runtime instructions for benchmarking three popular LLM inference servers using [`LLMPerf`](https://github.com/ray-project/llmperf):  
 - **llama.cpp**
